@@ -1,8 +1,8 @@
-# Privacy Policy — Last Station Tycoon
+# Privacy Policy — Last Station
 
 **Last updated: July 2, 2026**
 
-This privacy policy describes how **Last Station Tycoon** ("the game", "we") handles
+This privacy policy describes how **Last Station** ("the game", "we") handles
 your information. The game is developed and published by an independent developer
 ("the developer"). Contact: **marcostamoyofreire@gmail.com**.
 
