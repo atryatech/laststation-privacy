@@ -1,5 +1,3 @@
-# Privacy Policy — Last Station
-
 **Last updated: July 2, 2026**
 
 This privacy policy describes how **Last Station** ("the game", "we") handles
